@@ -1,4 +1,0 @@
-
-pysha3
-pycryptodome
-ecdsa

@@ -1,0 +1,27 @@
+{
+  "name": "curso-criptofia-cursor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AEN1209/curso-cryptofia-py-cursor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AEN1209/curso-cryptofia-py-cursor/issues"
+  },
+  "homepage": "https://github.com/AEN1209/curso-cryptofia-py-cursor#readme",
+  "dependencies": {
+    "@ethereumjs/util": "^10.0.0",
+    "@noble/curves": "^1.9.7",
+    "commander": "^14.0.0",
+    "js-sha3": "^0.9.3",
+    "node-rsa": "^1.1.1"
+  }
+}
